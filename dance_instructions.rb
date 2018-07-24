@@ -3,7 +3,7 @@
 
 def lower_body
   
- Assume the proper stance
+puts Assume the proper stance
 
 1. Plant legs far apart, bend knees slightly and keep posture loose
 
