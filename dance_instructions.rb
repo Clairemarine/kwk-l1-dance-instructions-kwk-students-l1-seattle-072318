@@ -3,34 +3,34 @@
 
 def lower_body
   
-puts Assume the proper stance
+puts "Assume the proper stance
 
-puts 1. Plant legs far apart, bend knees slightly and keep posture loose
+ 1. Plant legs far apart, bend knees slightly and keep posture loose
 
-puts Base Footwork
+ Base Footwork
 
-puts 1. Lift right foot
+ 1. Lift right foot
 
-puts 2. Return right foot to the ground
+ 2. Return right foot to the ground
 
-puts 3. Finishing with a **small skip-step** backward 
+ 3. Finishing with a **small skip-step** backward "
   
 
 end
 
 def skip_step
   
-puts  Skip Step Left
+puts  "Skip Step Left
 
-puts 1. Lower left foot to the ground
-puts 2. Bounce left foot back up slightly, kicking it a few puts inches back
-puts 3. Left, Right, Left and Left
+ 1. Lower left foot to the ground
+ 2. Bounce left foot back up slightly, kicking it a few  inches back
+ 3. Left, Right, Left and Left
 
-puts Skip Step Right
+ Skip Step Right
 
-puts 1. Lower right foot to the ground
-puts 2. Bounce right foot back up slightly, kicking it a few puts inches back
-puts 3. Right, Left, Right and Right
+ 1. Lower right foot to the ground
+ 2. Bounce right foot back up slightly, kicking it a few  inches back
+3. Right, Left, Right and Right"
 
 end 
 
