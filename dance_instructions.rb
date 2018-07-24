@@ -2,6 +2,7 @@
 # Code your methods below
 
 def lower_body
+  
  Assume the proper stance
 
 1. Plant legs far apart, bend knees slightly and keep posture loose
@@ -18,6 +19,7 @@ Base Footwork
 end
 
 def skip_step
+  
   Skip Step Left
 
 1. Lower left foot to the ground
@@ -34,8 +36,23 @@ end
 
 def upper_body
   
+  1. Holding your arms out in front of you, straight and at chest level
+2. Cross your right wrist over your left and hold them together
+3. Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated **eight** times.
+
+**Lasso**
+
+1. Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left.
+   - Lift right arm up and point right elbow diagonally to the right.
+   - Raise right forearm so that it points straight up, and **whip it in small circles** to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated **eight** times as well.
+   
+ end
   
+  puts lower_body
   
+  puts skip_step
+  
+  puts upper_body
   
 
 
